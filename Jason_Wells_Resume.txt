@@ -1,0 +1,67 @@
+Jason Wells			925-997-2284		jasonwells4@yahoo.com
+
+Languages: Perl(expert), Shell Scripting(expert),
+           C(proficient), SQL(proficient), XSLT(proficient),
+           C++(prior experience), PHP(prior experience), Tcl/expect(prior experience)
+
+Source Control: CVS(expert), Git(proficient), RCS(prior experience), ClearCase(prior experience)
+
+Platforms: Development and System administration for Linux(RHEL+SLES+Fedora), Solaris, AIX, HP-UX
+
+Experience: Software Engineer(Contractor) at Verizon Wireless	Oct 08-Present
+
+	* Used Data Mining and Analysis in the creation of a custom ETL system that is used to process nationwide cellular network configuration data (1x, 3G + 4G).
+	* I knew very little about cellular networks before starting this job, but I was able to quickly gain intimate knowledge about the equipment, and how useful data could be extracted.
+	* Maintained and refactored legacy code in a way that improved reliability and performance while adding documentation.
+	* Heavily used CPAN modules: Log::Log4Perl, DBI, Test::More, XML::Parser::PerlSAX, XML::Simple, and XML::Writer.
+	* Maintained many data acquisition scripts in Perl, Ksh, and Tcl/Expect.
+	* Used Perl DBI to save data to MySQL and Oracle DBs.
+	* Used XSLT heavily to transform XML to CSV and to shrink 1GB+ sized XML documents into smaller pieces. 
+	* Reverse engineered proprietary switch configuration database dumps when documentation was unavailable. This allowed for more comprehensive analysis of the network configuration.
+
+Experience: Software Engineer(Contractor) at Wells Fargo	Apr 08-Oct 08
+
+	* Developed Perl code to process incoming email and save results to XML documents in high volume production environment. Used libxml2 to validate output. 
+	* Enhanced system that transfers and tracks delivery of reports from Solaris servers to mainframes via NDM. Solution included Perl and shell scripts interacting with Oracle using DBI.
+	* Developed Perl code to examine multi-part emails and determine further processing needs based on the message type. 
+
+Experience: Software Engineer(Fulltime) at Symantec/Veritas	Apr 05-Apr 08
+
+	* Worked on team developing Perl-based software installation and configuration system for Linux, AIX, Solaris and HP-UX. Responsible for adding features and fixing bugs.
+	* Developed and maintained a test system that was used on each new build to determine if each product could be successfully installed and uninstalled. The test system was written in Perl and the results were displayed dynamically with a PHP/MySQL based web interface. This was used to validate each build before QA groups performed more detailed testing.
+	* Maintained custom Perl package that was used by installation scripts on all supported UNIX platforms. This included building Perl, adding necessary modules, and creating native packages for each platform.
+	* Worked on Linux Volume Manager Team and performed bug fixes and enhancements in shell scripts, as well as user and kernel level code in C. Much of the shell scripting was related to extensive RPM scriptlets. Performed test build and test case runs in addition to peer review before new code was committed.
+	* Completed shell script that modified a snapshot of the root disk and made it bootable in the event that the first disk becomes corrupted. This included modifying the initrd and Grub.conf.
+	* Ported shell script from Solaris to Linux that expands the root file system of a Volume Manager controlled disk. This included reboots and recreating the partition table.
+	* Created internal websites for documentation and status information about development cycle (such as archive information). Also set up a Wiki server to encourage other team members to document their projects.
+
+Experience: Software Engineer(Contractor) at Charles Schwab	Jul 04-Oct 04
+
+	* Developed load driving agents for current and future web-trading libraries using Terraprova WGT framework. Agents were used to simulate customer usage patterns and input was provided by existing transaction logs.
+ 	* Utilized Java JNI invocation interface to test Java API with C++ load generation framework.
+	* Performed various Linux scripting and administration tasks to assist development and testing efforts.
+
+Experience: Software Engineer(Fulltime) at Legato		2000-2003
+
+	* Member of Hierarchical Storage Management, HSM, development group focusing on Linux and UNIX. Took responsibility for fixing bugs, adding features to product and utilities, and porting to new OS. Work mostly done in C.
+	* Added SSL support to HSM FTP interface to support IETF spec draft-murray-auth-ftp-ssl-12. Used OpenSSL to provide the encryption. This prevented clear text transmission of username/password.
+	* Wrote large set of shell scripts (Ksh & Perl) to automate testing of new product releases.
+	* Performed research and development necessary to allow our HSM to work and share resources with Legato backup product (Tapes, Libraries). Developed Ksh scripts to synchronize both products.
+	* Created Web-based backup product and ported to all major UNIX releases. Product was written as Apache modules written in C, Perl, HTML, CGI, and mod_perl. Worked directly with Beta customers and made sure product suited their needs.
+	* Took on the responsibility of setting up all development equipment. This included servers, workstations, and SCSI and SAN storage devices. I also handled the ordering of new development equipment for my team.
+
+Experience: Web Developer(Fulltime) at Media Net Link	1999-2000
+
+	* Developed web sites for clients. Solutions included CGI scripts as well as Oracle and DBM database interaction written with Perl scripts.
+
+Education: CSU Hayward	2001-2007
+
+	* Bachelor of Science in Computer Science.
+	* Completed Degree while working full time.
+	* Focus on UNIX Programming, Computer Networks, and Databases.
+
+Training:
+
+	* Red Hat Kernel Internals Mountain View, CA 2007
+	* Veritas Storage Foundation Training Mountain View, CA 2006
+	* Veritas Cluster Server Training Mountain View, CA 2006
