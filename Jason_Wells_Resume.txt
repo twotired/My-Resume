@@ -4,7 +4,7 @@ Languages: Perl(expert), Shell Scripting(expert),
            C(proficient), SQL(proficient), XSLT(proficient),
            C++(prior experience), PHP(prior experience), Tcl/expect(prior experience)
 
-Source Control: CVS(expert), Git(proficient), RCS(prior experience), ClearCase(prior experience)
+Source Control: CVS(expert), Git(proficient), Subversion(proficient), RCS(prior experience), ClearCase(prior experience)
 
 Platforms: Development and System administration for Linux(RHEL+SLES+Fedora+Ubuntu), Solaris, AIX, HP-UX
 
