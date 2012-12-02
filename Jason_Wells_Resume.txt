@@ -6,7 +6,7 @@ Languages: Perl(expert), Shell Scripting(expert),
 
 Source Control: CVS(expert), Git(proficient), RCS(prior experience), ClearCase(prior experience)
 
-Platforms: Development and System administration for Linux(RHEL+SLES+Fedora), Solaris, AIX, HP-UX
+Platforms: Development and System administration for Linux(RHEL+SLES+Fedora+Ubuntu), Solaris, AIX, HP-UX
 
 Experience: Software Engineer(Contractor) at Verizon Wireless	Oct 08-Present
 
